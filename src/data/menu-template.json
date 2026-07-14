@@ -1,0 +1,174 @@
+{
+    "categories":[
+        {
+            "id":"barbecue",
+            "name":"Barbecue",
+            "items":[
+                {
+                    "id":"pulled-pork",
+                    "name":"Pulled Pork",
+                    "description":"Slow-smoked pork shoulder, hand-pulled",
+                    "pricePerPerson":12.00,
+                    "dietaryTags":["gluten-free"],
+                    "imageUrl":""
+                },
+                {
+                    "id":"brisket",
+                    "name":"Smoked Brisket",
+                    "description":"12-hour smoked beef brisket,sliced",
+                    "pricePerPerson":15.00,
+                    "dietaryTags":["gluten-free"],
+                    "imageUri":""
+                },{
+                    "id":"Ribs Platter",
+                    "name":"Sticky Ribs Platter",
+                    "description":"A half-slab of competition-style St. Louis pork ribs, rubbed with a brown-sugar spice blend, slow-smoked over hickory wood until competition-tender, and glazed with a sweet, sticky Kansas City-style BBQ sauce.",
+                    "pricePerPerson":20.00,
+                    "dietryTags":[],
+                    "imageUrl":""
+                },{
+                    "id":"Chicken",
+                    "name":"Smoked Chicken",
+                    "description":"A whole half-chicken brined for 24 hours, rubbed with a sweet-heat chipotle blend, and pit-smoked until incredibly juicy. It's finished on the grill with a sticky, caramelized glaze of local hot honey and apple cider vinegar.",
+                    "pricePerPerson":23.00,
+                    "dietryTags":[],
+                    "imageUrl":""
+                },{
+                    "id":"Grilled Shrimp Skewers",
+                    "name":"Cajun Flame-Grilled Shrimp Skewers",
+                    "description":"Jumbo, tail-on shrimp marinated in a zesty garlic-herb butter and heavily dusted with Cajun blackening spices. Seared over open flames for a perfect char and served with a side of charred lemon and a cool, creamy remoulade dipping sauce.",
+                    "pricePerPerson":15,
+                    "dietaryTags":[],
+                    "imageUrl":""
+                }
+            ]
+        },{
+            "id": "sides",
+            "name": "Sides",
+            "items": [
+                {
+                    "id": "mac-and-cheese",
+                    "name": "Mac & Cheese",
+                    "description": "Creamy baked mac and cheese",
+                    "pricePerPerson": 4.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id":"Salad",
+                    "name":"Salad",
+                    "description":"flavourfull salad",
+                    "pricePerPerson":3.00,
+                    "dietaryTags": ["gluten-free"],
+                    "imageUrl":""              
+                },{
+                    "id":"crisp slaw",
+                    "name":"Apple-Cider Crisp Slaw",
+                    "description":"A crunchy, refreshing mix of shredded green and red cabbage, julienned carrots, and crisp Granny Smith apples, tossed in a tangy, house-made apple cider vinegar dressing (no heavy mayo here!).",
+                    "pricePerPerson":4.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                },{
+                    "id":"sugar pit beans",
+                    "name":"Bourbon & Brown Sugar Pit Beans",
+                    "description":"A hearty blend of navy and pinto beans slow-simmered with smoky bacon pieces, molasses, dark brown sugar, and a splash of Kentucky bourbon, cooked directly under the smoker to catch the meat drippings.",
+                    "pricePerPerson":4.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                },{
+                    "id":"honey-butter skillet cornbread",
+                    "name":"Honey-Butter Skillet Cornbread",
+                    "description":"A thick, moist wedge of sweet golden cornbread baked fresh daily, served warm with a generous scoop of whipped honey-cinnamon butter.",
+                    "pricePerPerson":2.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                }
+            ]
+
+
+        },{
+            "id": "deserts",
+            "name": "Deserts",
+            "items": [
+                {
+                    "id": "brownies",
+                    "name": "Brownies",
+                    "description": "delicious brownies with vanilla ice cream",
+                    "pricePerPerson": 3.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id":"southern style banana pudding",
+                    "name":"Southern Style Banana Pudding",
+                    "description":"Layers of silky vanilla bean custard, fresh sliced bananas, and fluffy whipped cream, stacked high with classic Nilla Wafers that get perfectly cake-like overnight. Served in a nostalgic mason jar.",
+                    "pricePerPerson":3.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                },{
+                    "id":"cast-iron peach & bourbon cobbler",
+                    "name":"Cast-Iron Peach & Bourbon Cobbler",
+                    "description":"Sweet, juicy peaches simmered with brown sugar, cinnamon, and a splash of bourbon, baked under a golden, flaky brown-sugar biscuit crust. Served warm in a skillet.",
+                    "pricePerPerson":4.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                },{
+                    "id":"key lime pie bars",
+                    "name":"Key Lime Pie Bars",
+                    "description":"A silky, tart, and wildly refreshing authentic key lime custard baked over a thick, buttery graham cracker crust. Served chilled with a dollop of fresh whipped cream and a lime twist to perfectly cut through heavy BBQ smoke.",
+                    "pricePerPerson":3.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                },{
+                    "id":"campfire s'mores dip",
+                    "name":"Campfire S'mores Dip",
+                    "description":"A cast-iron skillet loaded with melted milk chocolate chips and peanut butter chunks, topped with a dense layer of jumbo marshmallows, baked until toasted and golden brown. Served hot with a basket of graham crackers for dipping.",
+                    "pricePerPerson":1.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                }
+            ]
+
+        },{
+            "id": "beverages",
+            "name": "Beverages",
+            "items": [
+                {
+                    "id": "iced tea",
+                    "name": "Iced Tea",
+                    "description": "lemmon flavoured delicious ice tea",
+                    "pricePerPerson": 1.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id": "beer",
+                    "name": "Beer",
+                    "description": "ice cold beer",
+                    "pricePerPerson": 1.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id": "club soda",
+                    "name": "Club Soda",
+                    "description": "ice cold club soda",
+                    "pricePerPerson": 1.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id": "choclate milkshake",
+                    "name": "Chocolate MilkShake",
+                    "description": "ice cold chocolate milkshake",
+                    "pricePerPerson": 2.00,
+                    "dietaryTags": [],
+                    "imageUrl": ""
+                },{
+                    "id":"energy drink",
+                    "name":"Energy Drink",
+                    "description":"red bull ice cold energy drink",
+                    "pricePerPerson":1.00,
+                    "dietaryTags": [],
+                    "imageUrl":""              
+                }
+            ]
+
+        }
+    ]
+}
